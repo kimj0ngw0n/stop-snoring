@@ -1,0 +1,5 @@
+sleep_date,sleep_minute,snore_count,snore_minute,vaseline_apply,pillow_high,sleep_position,nose_stuff,nose_dry,first_snore_minute,other
+12월 03일,388,2,20,0,2,0,1,1,23,"중간에 2번 깸, 전체적으로 숨소리가 크거나 잠깐잠깐 드르렁 거리는 경우가 많았음"
+12월 04일,319,4,21,1,2,1,1,2,15,잠깐잠깐 자주 코를 곰
+12월 05일,114,2,18,0,1,0,1,0,15,"중간에 깨서 녹음을 한번 중지했는데, 재녹음을 안해서 2시 30분 이후 녹음본이 없음"
+12월 06일,486,,,0,1,0,0,0,8,"일반 녹음이라 파악이 힘듦, snore_count 최소 1번, snore_minute 최소 24분, 사실상 폐기"
